@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Secrets
+.env
+
+# Local data and results
+data/
+*.db
+
+# Editors and local tooling
+.DS_Store
+.vscode/
+.idea/
+.claude/
+CLAUDE.md
